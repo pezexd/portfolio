@@ -8,9 +8,9 @@
 				<p class="text-sm font-medium">
 					{{ $t('services.desc') }}
 				</p>
-				<a href="" class="text-xs text-primary-500 font-semibold">
+				<!-- <a href="#" class="text-xs text-primary-500 font-semibold">
 					{{ $t('services.more') }}
-				</a>
+				</a> -->
 			</div>
 			<div class="flex justify-start md:justify-start">
 				<app-contact />
