@@ -9,6 +9,26 @@ useHead({
       name: 'description',
       content: 'Portfolio of full stack developer Pedro Torres.',
     },
+    {
+      property: 'og:type',
+      content: 'website'
+    },
+    {
+      property: 'og:title',
+      content: 'Pezedev'
+    },
+    {
+      property: 'og:description',
+      content: 'Portfolio of full stack developer Pedro Torres.'
+    },
+    {
+      property: 'og:image',
+      content: '/logo-og.png'
+    },
+    {
+      property: 'og:url',
+      content: 'permalink'
+    }
   ],
 })
 
