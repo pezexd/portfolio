@@ -6,7 +6,7 @@ useHead({
   title: 'Pezedev',
   meta: [
     {
-      name: 'Pezedev',
+      name: 'description',
       content: 'Portfolio of full stack developer Pedro Torres.',
     },
   ],
