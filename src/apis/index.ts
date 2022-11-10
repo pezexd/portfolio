@@ -1,12 +1,13 @@
-import axios from 'axios'
+import { createFetch } from '@vueuse/core'
 
 const location = useBrowserLocation()
 
 /**
  * Create axios instances
  */
-const api = axios.create({
-  baseURL: location.value.origin,
+
+const api = createFetch({
+  baseUrl: location.value.origin
 })
 
 export default api

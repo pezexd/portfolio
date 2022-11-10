@@ -12,8 +12,8 @@ export const useWorks = defineStore('works', () => {
    * Fetch works from api and set to state
    */
   const Get = async () => {
-    const { data } = await api.get('/api/works.json')
-    Works.value = data
+    const { data } = await api('/api/works.json').get().json()
+    Works.value = data.value as unknown as Work[]
   }
 
   return {
