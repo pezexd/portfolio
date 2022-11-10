@@ -1,0 +1,52 @@
+nav:
+  home: HOME
+  services: SERVICES
+  contact: CONTACT
+  works: WORKS
+  about: ABOUT
+home:
+  swipe: Swipe up to explore
+  scroll: Scroll down to explore
+footer:
+  copyright: All rights reserved.
+  links:
+    support: Support
+    privacy: Privacy policy
+home.desc: Is a full stack developer & web designer
+home.swipe: Swipe up
+home.scroll: Scroll down
+services.title: Services
+services.desc: Services that will help you reach new heights in your business.
+services.more: See more information
+services.web: Web development
+services.web.desc: Creating scalable websites from scratch.
+services.design: UI/UX Design
+services.design.desc: Attractive and interactive interfaces for the end user.
+services.branding: Branding
+services.branding.desc: Name, identity and Brand guideline.
+services.server: Web servers
+services.server.desc: Management, inventory and processes systems.
+home.prghps: >-
+  He crafts and develops websites and systems that help your business grow in
+  the Internet world.
+works.title: Selected Works
+works.desc: List of works and personal projects that I have done.
+about.title: Me
+about.desc: I'm here to give your business a new look now!
+about.story: >-
+  From an early age, I was very interested in creating websites and anything
+  that has to do with the web. It was not until three years ago that I started
+  to learn what programming is, And this has led me to what I am now. So, why
+  not help people to make her ideas possible?
+about.spec: My Specialties
+about.spec.desc: Here's a list of my main skills
+contact: Let's talk
+contact.desc: Have a project or idea? I would love to help.
+contact.form.name: Your name
+contact.form.email: Your email
+contact.form.interest: What you are interested?
+contact.form.budget: Budget
+contact.form.message: Message
+contact.form.submit: Just Send
+contact.sended: Message sended!
+contact.notsent: Message not sended!

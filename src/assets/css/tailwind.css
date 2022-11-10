@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .scrollbar::-webkit-scrollbar {
+        @apply h-1 w-1;
+      }
+      .scrollbar::-webkit-scrollbar-track {
+        @apply bg-stone-800/70 rounded-full;
+      }
+      .scrollbar::-webkit-scrollbar-thumb {
+        @apply bg-stone-300/10 rounded-full transition ease-in duration-100;
+      }
+      .scrollbar::-webkit-scrollbar-thumb:hover {
+        @apply bg-stone-300/20;
+      }
+}

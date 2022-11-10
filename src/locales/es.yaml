@@ -1,0 +1,54 @@
+nav:
+  home: INICIO
+  services: SERVICIOS
+  contact: CONTACTO
+  works: TRABAJOS
+  about: ACERCA DE
+footer:
+  copyright: Todos los derechos reservados.
+  links:
+    support: Soporte
+    privacy: Politica de privacidad
+home.scroll: Desplácese hacia abajo para explorar
+home.swipe: Deslice hacia arriba para explorar
+home.desc: Es un desarrollador full stack & diseñador web
+services.title: Servicios
+services.desc: Servicios que lo ayudarán a alcanzar nuevas alturas en su negocio.
+services.more: Ver más información
+services.web: Desarrollo web
+services.web.desc: Creación de sitios web escalables desde cero.
+services.design: Diseño UI/UX
+services.design.desc: Interfaces atractivas e interactivas para el usuario final.
+services.server: Servidores web
+services.server.desc: Sistemas de gestión, inventario y procesos.
+services.branding: Marca
+services.branding.desc: Nombre, identidad y directriz de marca.
+home.prghps: >-
+  Crea y desarrolla sitios web y sistemas que ayudan a tu negocio a crecer en el
+  mundo de Internet.
+works.title: Trabajos seleccionados
+works.desc: Lista de trabajos y proyectos personales que he realizado.
+about.title: Mí
+about.desc: ¡Estoy aquí para darle a tu negocio una nueva imagen desde ahora!
+about.story: >-
+  Desde muy temprana edad me interesó mucho la creación de sitios web y todo lo
+  que tenga que ver con la web. 
+
+  No fue hasta hace tres años que empecé a aprender lo que es programar, y esto
+  me ha llevado a ser lo que soy ahora. 
+
+  Entonces, ¿por qué no ayudar a las personas a hacer posibles sus ideas?
+about.spec: Mis Especialidades
+about.spec.desc: Aquí hay una lista de mis principales habilidades.
+contact: Contactame
+contact.desc: |-
+  ¿Tienes un proyecto o idea? 
+  Me encantaría ayudar.
+contact.form.name: Tu nombre
+contact.form.email: Tu correo electrónico
+contact.form.interest: Servicio a contratar
+contact.form.budget: Presupuesto
+contact.form.message: Mensaje
+contact.form.submit: Enviar
+contact.sended: ¡Mensaje enviado!
+contact.notsent: ¡Mensaje no enviado!

@@ -1,0 +1,26 @@
+[
+    {
+        "imgsrc": "portfolio/project-mascotashop.png",
+        "href": "https://mascotashop.vercel.app",
+        "title": "Mascotashop",
+        "type": "Landing page"
+    },
+    {
+        "imgsrc": "portfolio/project-portfolio.png",
+        "href": "https://peze-dev.vercel.app",
+        "title": "Portfolio",
+        "type": "Landing page"
+    },
+    {
+        "imgsrc": "portfolio/project-ecommerce.png",
+        "href": "https://e-commerce-pz.vercel.app/",
+        "title": "Electronics",
+        "type": "E-Commerce"
+    },
+    {
+        "imgsrc": "portfolio/project-crices.png",
+        "href": "https://crices.netlify.app/",
+        "title": "Crices",
+        "type": "Ranking"
+    }
+]
