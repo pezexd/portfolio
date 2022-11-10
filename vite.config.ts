@@ -33,9 +33,9 @@ export default defineConfig({
       EMAIL_KEY: undefined,
     }),
     vueI18n({
-      runtimeOnly: true,
+      runtimeOnly: false,
       compositionOnly: true,
-      include: path.resolve(__dirname, 'src/locales/**'),
+      include: [path.resolve(__dirname, 'src/locales/**')],
     })
   ],
   ssgOptions: {

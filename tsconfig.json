@@ -17,6 +17,7 @@
     "types": [
       "vite/client",
       "unplugin-icons/types/vue",
+      "@intlify/vite-plugin-vue-i18n/client",
     ],
     "paths": {
       "~/*": ["src/*"]
