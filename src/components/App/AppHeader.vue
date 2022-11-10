@@ -61,7 +61,7 @@ const Routes = ref<RouteT[]>([
 		<header class="container flex items-start md:items-center justify-between gap-8">
 			<div class="flex items-center">
 				<a href="#home" title="Logo">
-					<img src="/logo.png" class="w-32 md:w-36" alt="">
+					<img src="/logo.png" class="w-32 h-[26.5px] md:w-36 md:h-[30px]" alt="">
 				</a>
 			</div>
 			<!-- DesktopNav -->
