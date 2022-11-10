@@ -34,5 +34,5 @@
 		</div>
 	</div>
 	<div class="absolute top-0 left-0 w-full h-full bg-gradient-to-br from-stone-900/70 to-stone-800/70 backdrop-blur object-cover z-10" />
-	<img class="absolute top-0 left-0 w-full h-full object-left-bottom md:object-center object-cover z-0" src="background-1.svg" alt="">
+	<img class="absolute top-0 left-0 w-full h-full object-left-bottom md:object-center object-cover z-0" src="/background-1.svg" alt="">
 </template>
