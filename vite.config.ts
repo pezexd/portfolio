@@ -40,6 +40,8 @@ export default defineConfig({
   ],
   ssgOptions: {
     script: 'async',
+    format: 'cjs',
+    mock: true,
     formatting: 'minify',
   },
 })
