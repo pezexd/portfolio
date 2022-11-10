@@ -58,13 +58,15 @@ const Routes = ref<RouteT[]>([
 
 <template>
 	<div :class="IsSection ? 'bg-stone-900/50 backdrop-blur-sm' : '' " class="fixed top-0 left-0 w-full z-10 py-6 px-0 md:px-12">
-		<header class="container flex items-start md:items-center justify-between">
-			<app-header-link href="/" :separator="false">
-					<img src="/logo.png" class="h-6 md:h-8" alt="">
-			</app-header-link>
+		<header class="container flex items-start md:items-center justify-between gap-8">
+			<div class="flex items-center">
+				<a href="#home" title="Logo">
+					<img src="/logo.png" class="w-32 md:w-36" alt="">
+				</a>
+			</div>
 			<!-- DesktopNav -->
 			<nav class="hidden md:flex flex-col md:flex-row md:flex-wrap items-center gap-5 mt-1.5">
-				<ul id="menu" class="flex flex-col md:flex-row gap-5 md:gap-10 items-center">
+				<ul id="menu" class="flex flex-col md:flex-row md:flex-wrap gap-5 md:gap-10 items-center">
 					<app-header-link-section v-for="Route in Routes" :key="Route.text" :data-menuanchor="Route.menuanchor" :href="Route.href" :separator="Route.separator">
 						{{ $t(`${Route.text}`) }}
 					</app-header-link-section>

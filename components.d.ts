@@ -28,6 +28,7 @@ declare module '@vue/runtime-core' {
     IPhCaretLeft: typeof import('~icons/ph/caret-left')['default']
     IPhCaretRight: typeof import('~icons/ph/caret-right')['default']
     IPhCloudFill: typeof import('~icons/ph/cloud-fill')['default']
+    IPhGithubLogoFill: typeof import('~icons/ph/github-logo-fill')['default']
     IPhLink: typeof import('~icons/ph/link')['default']
     IPhListFill: typeof import('~icons/ph/list-fill')['default']
     IPhPencilCircleFill: typeof import('~icons/ph/pencil-circle-fill')['default']
