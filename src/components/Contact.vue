@@ -106,7 +106,7 @@ function SubmitContact(values: FormContact) {
 			</p>
 		</div>
 		<div class="w-full flex">
-			<form-vee :validation-schema="SchemaRules" @submit.prevent="SubmitContact as unknown">
+			<form-vee :validation-schema="SchemaRules" @submit="SubmitContact as unknown">
 				<div class="flex flex-col gap-4">
 					<div class="flex flex-col md:flex-row gap-4 md:gap-2">
 						<div class="relative flex flex-col gap-1">
