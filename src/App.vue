@@ -44,8 +44,7 @@ const options = {
   navigation: true,
   scrollOverflow: false,
   anchors: ['home', 'services', 'works', 'about', 'contact', 'footer'],
-  scrollingSpeed: 400,
-  responsiveWidth: 768,
+  scrollingSpeed: 300,
 }
 </script>
 
